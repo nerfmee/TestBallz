@@ -9,6 +9,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallReturn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameOver.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallLauncher.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LaunchPreview.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockSpawner.cs" root0="FORCE_HIGHLIGHTING" />
@@ -28,6 +29,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Ball.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LaunchPreview.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/BallLauncher.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameOver.cs" />
       </list>
     </option>
   </component>
@@ -75,6 +77,7 @@
       <workItem from="1591180749858" duration="991000" />
       <workItem from="1591182129038" duration="1322000" />
       <workItem from="1591186471788" duration="3172000" />
+      <workItem from="1591196909729" duration="2235000" />
     </task>
     <servers />
   </component>
@@ -84,10 +87,10 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="WindowStateProjectService">
-    <state x="827" y="0" width="1255" height="1297" key="dock-window-1" timestamp="1591183452203">
+    <state x="497" y="0" width="1604" height="1303" key="dock-window-1" timestamp="1591198741890">
       <screen x="0" y="0" width="2560" height="1394" />
     </state>
     <state x="1397" y="268" width="767" height="998" key="dock-window-1/2560.245.1680.1004/0.0.2560.1394@0.0.2560.1394" timestamp="1591180747719" />
-    <state x="827" y="0" width="1255" height="1297" key="dock-window-1/2560.245.1680.1004/0.0.2560.1394@2560.245.1680.1004" timestamp="1591183452203" />
+    <state x="497" y="0" width="1604" height="1303" key="dock-window-1/2560.245.1680.1004/0.0.2560.1394@2560.245.1680.1004" timestamp="1591198741890" />
   </component>
 </project>
